@@ -56,3 +56,9 @@ Lorsqu'il reçoit une requête HTTP, il traite la demande et renvoie le contenu 
 Si le fichier n'est pas trouvé, il retourne une page d'erreur 404.
 
 Le fichier servi est index.html, vous pouvez le modifier à votre guise.
+
+## Exemple
+
+Voici un exemple d'output côté serveur lorsque le client effectue la requête donnée en exemple plus tôt.
+
+![server-example.png](server-example.png)
