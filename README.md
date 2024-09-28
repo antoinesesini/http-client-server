@@ -47,6 +47,8 @@ Après avoir lancé le serveur, si le client est lancé avec la saisie `localhos
 
 
 
+
+
 ## Serveur
 
 ### Utilisation
@@ -62,3 +64,7 @@ Le fichier servi est index.html, vous pouvez le modifier à votre guise.
 Voici un exemple d'output côté serveur lorsque le client effectue la requête donnée en exemple plus tôt.
 
 ![server-example.png](server-example.png)
+
+Accès avec Google Chrome à localhost/index.html
+
+![navigator-example.png](browser-example.png)
